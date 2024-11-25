@@ -28,7 +28,7 @@
    
    
    
-   <h5 class="wp-block-heading"><strong>Simplify Expense Tracking</strong></h5>
+   <h3 class="wp-block-heading"><strong>Simplify Expense Tracking</strong></h3>
    
    
    
@@ -50,7 +50,7 @@
    
    
    
-   <h5 class="wp-block-heading"><strong>Collaborate with Ease</strong></h5>
+   <h3 class="wp-block-heading"><strong>Collaborate with Ease</strong></h3>
    
    
    
@@ -68,7 +68,7 @@
    
    
    
-   <h5 class="wp-block-heading"><strong>Stay on Top of Your Finances</strong></h5>
+   <h3 class="wp-block-heading"><strong>Stay on Top of Your Finances</strong></h3>
    
    
    
@@ -213,7 +213,7 @@
    
    
    
-   <h5 class="wp-block-heading"><strong>Pros:</strong></h5>
+   <h3 class="wp-block-heading"><strong>Pros:</strong></h3>
    
    
    
@@ -239,7 +239,7 @@
    
    
    
-   <h5 class="wp-block-heading"><strong>Cons:</strong></h5>
+   <h3 class="wp-block-heading"><strong>Cons:</strong></h3>
    
    
    
